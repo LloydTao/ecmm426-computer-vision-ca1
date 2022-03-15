@@ -4,4 +4,8 @@ jupyterlab==3.2.9
 # Data packages
 matplotlib==3.5.1
 numpy==1.22.2
+opencv-python==4.5.5.64
 pandas==1.4.1
+termcolor==1.1.0
+torch==1.11.0
+torchvision==0.12.0
